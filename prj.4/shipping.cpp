@@ -14,7 +14,7 @@ int main() {
   // get user input
   cout << "Enter the weight of the package (in kg): ";
   cin >> weight;
-  cout << "Enter the distance it is to be shipped (in kilometers): ";
+  cout << "Enter the distance it is to be shipped (in miles): ";
   cin >> distance;
 
   // Input validation
